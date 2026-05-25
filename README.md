@@ -1,5 +1,5 @@
 🇬🇧
-Details:
+# Details:
 - Continuation of the Lost-In-The-Stars-Unity-Developer-Module-16 project;
 - Two types of collectible items added;
 - Updated interfaces using the Scriptable Object technique;
@@ -7,7 +7,7 @@ Details:
 - More than one type of main character configuration created.
 
 🇧🇷
-Detalhes:
+# Detalhes:
 - Continuidade do projeto Lost-In-The-Stars-Unity-Developer-Module-16;
 - Dois tipos de itens coletáveis adicionados;
 - Interfaces atualizadas, utilizando a técnica de Scriptable Object;
